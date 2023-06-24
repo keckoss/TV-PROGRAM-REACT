@@ -1,6 +1,6 @@
 import "./App.css";
-import Header from "./assets/header";
-import Main from "./assets/main";
+import Header from "./assets/Header";
+import Main from "./assets/Main";
 import data from "./assets/data.json";
 
 function App() {
